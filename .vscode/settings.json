@@ -20,5 +20,6 @@
     "oronto",
     "rref",
     "unrooted"
-  ]
+  ],
+  "git.ignoreLimitWarning": true
 }
